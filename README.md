@@ -1,0 +1,1 @@
+# TheWallcoin PoW/PoS coin 
